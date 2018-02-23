@@ -3,5 +3,6 @@
     <pages>
         <page name='Two Sum'/>
         <page name='Add Two Numbers'/>
+        <page name='Longest Substring Without Repeating Characters'/>
     </pages>
 </playground>
